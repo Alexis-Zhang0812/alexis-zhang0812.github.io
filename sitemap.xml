@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://junzhi-liu.github.io/2022/11/12/%E4%B8%80%E4%B8%AA%E6%92%B8%E7%BE%8A%E6%AF%9B%E6%95%99%E7%A8%8B/</loc>
+    <loc>2022/11/13/%E4%B8%80%E4%B8%AA%E8%96%85%E7%BE%8A%E6%AF%9B%E6%95%99%E7%A8%8B/</loc>
+    
+    <lastmod>2022-11-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>about/index.html</loc>
     
     <lastmod>2022-11-12</lastmod>
     
@@ -11,25 +20,16 @@
   </url>
   
   <url>
-    <loc>https://junzhi-liu.github.io/2022/11/05/test/</loc>
+    <loc>links/index.html</loc>
     
-    <lastmod>2022-11-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://junzhi-liu.github.io/links/index.html</loc>
-    
-    <lastmod>2022-09-27</lastmod>
+    <lastmod>2022-11-12</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://junzhi-liu.github.io/2022/09/14/%E6%8C%96%E5%9D%91/</loc>
+    <loc>2022/09/14/%E6%8C%96%E5%9D%91/</loc>
     
     <lastmod>2022-09-16</lastmod>
     
@@ -38,16 +38,7 @@
   </url>
   
   <url>
-    <loc>https://junzhi-liu.github.io/about/index.html</loc>
-    
-    <lastmod>2022-09-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://junzhi-liu.github.io/2022/11/05/hello-world/</loc>
+    <loc>2022/11/05/hello-world/</loc>
     
     <lastmod>2022-09-13</lastmod>
     
@@ -57,19 +48,12 @@
   
 
   <url>
-    <loc>https://junzhi-liu.github.io/</loc>
-    <lastmod>2022-11-12</lastmod>
+    <loc>https://alexis-zhang0812.github.io/</loc>
+    <lastmod>2022-11-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
-  
-  <url>
-    <loc>https://junzhi-liu.github.io/tags/%E7%BE%8A%E6%AF%9B/</loc>
-    <lastmod>2022-11-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
 
   
