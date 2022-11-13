@@ -6,7 +6,7 @@
   <link href="atom.xml" rel="self"/>
   
   <link href="https://alexis-zhang0812.github.io/"/>
-  <updated>2022-11-13T22:49:31.517Z</updated>
+  <updated>2022-11-13T23:53:45.257Z</updated>
   <id>https://alexis-zhang0812.github.io/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="2022/11/13/test/"/>
+    <id>2022/11/13/test/</id>
+    <published>2022-11-13T23:53:45.000Z</published>
+    <updated>2022-11-13T23:53:45.257Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>一个薅羊毛教程</title>
