@@ -3,10 +3,10 @@
   <title>yunsBlog</title>
   
   
-  <link href="atom.xml" rel="self"/>
+  <link href="https://alexis-zhang0812.github.io/atom.xml" rel="self"/>
   
   <link href="https://alexis-zhang0812.github.io/"/>
-  <updated>2022-11-14T13:50:40.372Z</updated>
+  <updated>2022-11-14T14:41:43.841Z</updated>
   <id>https://alexis-zhang0812.github.io/</id>
   
   <author>
@@ -18,17 +18,17 @@
   
   <entry>
     <title>test</title>
-    <link href="2022/11/13/test/"/>
-    <id>2022/11/13/test/</id>
+    <link href="https://alexis-zhang0812.github.io/2022/11/13/test/"/>
+    <id>https://alexis-zhang0812.github.io/2022/11/13/test/</id>
     <published>2022-11-13T23:53:45.000Z</published>
-    <updated>2022-11-14T13:50:40.372Z</updated>
+    <updated>2022-11-14T14:41:43.841Z</updated>
     
-    <content type="html"><![CDATA[<p>now?<br>try</p>]]></content>
+    <content type="html"><![CDATA[<p>now?<br>try<br>again</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;now?&lt;br&gt;try&lt;/p&gt;
+    <summary type="html">&lt;p&gt;now?&lt;br&gt;try&lt;br&gt;again&lt;/p&gt;
 </summary>
       
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>一个薅羊毛教程</title>
-    <link href="2022/11/13/%E4%B8%80%E4%B8%AA%E8%96%85%E7%BE%8A%E6%AF%9B%E6%95%99%E7%A8%8B/"/>
-    <id>2022/11/13/%E4%B8%80%E4%B8%AA%E8%96%85%E7%BE%8A%E6%AF%9B%E6%95%99%E7%A8%8B/</id>
+    <link href="https://alexis-zhang0812.github.io/2022/11/13/%E4%B8%80%E4%B8%AA%E8%96%85%E7%BE%8A%E6%AF%9B%E6%95%99%E7%A8%8B/"/>
+    <id>https://alexis-zhang0812.github.io/2022/11/13/%E4%B8%80%E4%B8%AA%E8%96%85%E7%BE%8A%E6%AF%9B%E6%95%99%E7%A8%8B/</id>
     <published>2022-11-13T22:40:30.000Z</published>
     <updated>2022-11-13T22:49:31.517Z</updated>
     
@@ -59,8 +59,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="2022/11/05/hello-world/"/>
-    <id>2022/11/05/hello-world/</id>
+    <link href="https://alexis-zhang0812.github.io/2022/11/05/hello-world/"/>
+    <id>https://alexis-zhang0812.github.io/2022/11/05/hello-world/</id>
     <published>2022-11-05T08:58:37.646Z</published>
     <updated>2022-09-13T20:31:24.546Z</updated>
     
@@ -79,8 +79,8 @@
   
   <entry>
     <title>挖坑</title>
-    <link href="2022/09/14/%E6%8C%96%E5%9D%91/"/>
-    <id>2022/09/14/%E6%8C%96%E5%9D%91/</id>
+    <link href="https://alexis-zhang0812.github.io/2022/09/14/%E6%8C%96%E5%9D%91/"/>
+    <id>https://alexis-zhang0812.github.io/2022/09/14/%E6%8C%96%E5%9D%91/</id>
     <published>2022-09-14T18:10:10.000Z</published>
     <updated>2022-09-16T11:45:40.888Z</updated>
     
