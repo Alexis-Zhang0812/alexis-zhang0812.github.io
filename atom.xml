@@ -6,7 +6,7 @@
   <link href="https://alexis-zhang0812.github.io/atom.xml" rel="self"/>
   
   <link href="https://alexis-zhang0812.github.io/"/>
-  <updated>2022-11-14T17:14:21.181Z</updated>
+  <updated>2022-11-14T18:03:50.210Z</updated>
   <id>https://alexis-zhang0812.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://alexis-zhang0812.github.io/2022/11/13/test/"/>
     <id>https://alexis-zhang0812.github.io/2022/11/13/test/</id>
     <published>2022-11-13T23:53:45.000Z</published>
-    <updated>2022-11-14T17:14:21.181Z</updated>
+    <updated>2022-11-14T18:03:50.210Z</updated>
     
-    <content type="html"><![CDATA[<p>now?<br>try<br>again<br>qwq<br>how?</p><p>font test</p><p>!@##$^%&amp;()<br>abcdefghijk -&gt;<br>font test4</p>]]></content>
+    <content type="html"><![CDATA[<p>now?<br>try<br>again<br>qwq<br>how?</p><p>font test</p><p>!@##$^%&amp;()<br>abcdefghijk -&gt;<br>font test4</p><p>color test1</p>]]></content>
     
     
       
@@ -31,6 +31,7 @@
     <summary type="html">&lt;p&gt;now?&lt;br&gt;try&lt;br&gt;again&lt;br&gt;qwq&lt;br&gt;how?&lt;/p&gt;
 &lt;p&gt;font test&lt;/p&gt;
 &lt;p&gt;!@##$^%&amp;amp;()&lt;br&gt;abcdefghijk -&amp;gt;&lt;br&gt;font test4&lt;/p&gt;
+&lt;p&gt;color test1&lt;/p&gt;
 </summary>
       
     
