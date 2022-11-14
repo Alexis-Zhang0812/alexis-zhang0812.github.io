@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://alexis-zhang0812.github.io/2022/11/14/test2/</loc>
+    
+    <lastmod>2022-11-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://alexis-zhang0812.github.io/2022/11/13/test/</loc>
     
     <lastmod>2022-11-14</lastmod>
