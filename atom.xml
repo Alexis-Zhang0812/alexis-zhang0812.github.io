@@ -6,7 +6,7 @@
   <link href="atom.xml" rel="self"/>
   
   <link href="https://alexis-zhang0812.github.io/"/>
-  <updated>2022-11-14T00:07:43.507Z</updated>
+  <updated>2022-11-14T13:50:40.372Z</updated>
   <id>https://alexis-zhang0812.github.io/</id>
   
   <author>
@@ -21,14 +21,14 @@
     <link href="2022/11/13/test/"/>
     <id>2022/11/13/test/</id>
     <published>2022-11-13T23:53:45.000Z</published>
-    <updated>2022-11-14T00:07:43.507Z</updated>
+    <updated>2022-11-14T13:50:40.372Z</updated>
     
-    <content type="html"><![CDATA[<p>now?</p>]]></content>
+    <content type="html"><![CDATA[<p>now?<br>try</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;now?&lt;/p&gt;
+    <summary type="html">&lt;p&gt;now?&lt;br&gt;try&lt;/p&gt;
 </summary>
       
     
