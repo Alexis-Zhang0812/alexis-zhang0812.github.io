@@ -543,7 +543,7 @@ body {
   background-repeat: repeat-x;
 }
 .content a:hover {
-  background-image: linear-gradient(transparent, transparent 4px, #c678dd 4px, #c678dd);
+  background-image: linear-gradient(transparent, transparent 4px, #c678dd 4px, transparent);
 }
 .content a.icon {
   background: none;
