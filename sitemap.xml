@@ -2,51 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://alexis-zhang0812.github.io/2022/11/14/haha/</loc>
-    
-    <lastmod>2022-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://alexis-zhang0812.github.io/2022/11/14/test3/</loc>
-    
-    <lastmod>2022-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://alexis-zhang0812.github.io/2022/11/14/test2/</loc>
-    
-    <lastmod>2022-11-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://alexis-zhang0812.github.io/2022/11/13/test/</loc>
-    
-    <lastmod>2022-11-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://alexis-zhang0812.github.io/2022/11/13/%E4%B8%80%E4%B8%AA%E8%96%85%E7%BE%8A%E6%AF%9B%E6%95%99%E7%A8%8B/</loc>
-    
-    <lastmod>2022-11-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://alexis-zhang0812.github.io/about/index.html</loc>
     
     <lastmod>2022-11-12</lastmod>
@@ -64,28 +19,10 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://alexis-zhang0812.github.io/2022/09/14/%E6%8C%96%E5%9D%91/</loc>
-    
-    <lastmod>2022-09-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://alexis-zhang0812.github.io/2022/11/05/hello-world/</loc>
-    
-    <lastmod>2022-09-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://alexis-zhang0812.github.io/</loc>
-    <lastmod>2022-11-15</lastmod>
+    <lastmod>2022-11-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
